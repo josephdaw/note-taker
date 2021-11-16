@@ -13,6 +13,10 @@ app.listen(PORT, () => {
 // serve up the static pages in the public folder
 app.use(express.static('public'));
 
+// Middleware for parsing JSON and urlencoded form data
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
 // route to api
 app.use('/api', api);
 
