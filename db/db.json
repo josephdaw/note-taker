@@ -1,11 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "This is another test",
-        "text": "Please let this work for me!",
+        "title": "This sample note",
+        "text": "You can click the plus button in the top right corner to create a new note.\nNotes can be deleted by clicking on the red bin icon.",
         "id": "a7ce41ec-6be9-4e48-a9dc-987c5d1bf9b5"
     }
 ]
