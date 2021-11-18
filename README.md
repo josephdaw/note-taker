@@ -23,7 +23,7 @@ The following images show the web application's appearance and functionality:
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./public/assets/img/11-express-homework-demo-02.png)
 
 ## Credits
-- This project idea is part of the [Adelaide University Coding Boot Camp](https://bootcamps.adelaide.edu.au). The front end code was provided as part of the project.
+This project idea is part of the [Adelaide University Coding Boot Camp](https://bootcamps.adelaide.edu.au). The front end code was provided as part of the project.
 
 ## License
 This project is released under the [MIT License](LICENSE).
